@@ -1,8 +1,9 @@
 #!/bin/sh
 
-hello()
+
+echo_msg()
 {
     echo $1
 }
 
-hello world
+echo_msg Hello world
