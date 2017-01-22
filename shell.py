@@ -7,4 +7,4 @@ echo_msg()
 }
 
 echo_msg "Hello, "
-echo_msg "Welcome to git world!"
+echo_msg "Welcome to git new world!"
