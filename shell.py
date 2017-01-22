@@ -6,4 +6,4 @@ echo_msg()
     echo $1
 }
 
-echo_msg Hello world
+echo_msg "Hello world"
